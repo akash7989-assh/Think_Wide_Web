@@ -1,0 +1,7 @@
+# Go build and test artifacts
+.gocache/
+.gopath/
+*.exe
+actual.txt
+*.out
+
